@@ -1,7 +1,7 @@
 Assignments
 
 (1) Assignment - Crijns, Romeijn:
-https://russet.uvt.nl/user/u1259198/notebooks/CrijnsRomeijn%20(3).ipynb
+https://github.com/JeromeCrijns/assignments/blob/master/README%20-%20CrijnsRomeijn.ipynb?short_path=53efb57
 
 (2) Python attachment:
-https://russet.uvt.nl/user/u1259198/edit/EdgarSearchED.py
+https://github.com/JeromeCrijns/assignments/blob/master/README%20-%20Python%20attachment.py
