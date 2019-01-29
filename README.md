@@ -3,7 +3,8 @@ Assignments
 (1) Assignment - Crijns, Romeijn:
 file:///C:/Users/jerom/OneDrive/Documenten/Python/READMECrijnsRomeijn.Final.html
 
-(1)[original notebook, non-HTML] Assignment - Crijns, Romeijn:
+[original notebook, non-HTML] Assignment - Crijns, Romeijn:
+https://github.com/JeromeCrijns/assignments/blob/master/READMECrijnsRomeijn.Final.ipynb
 
 
 (2) Python attachment:
