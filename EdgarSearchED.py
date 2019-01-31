@@ -4,6 +4,7 @@ Usage:
     EdgarSearch.py download [options]
     EdgarSearch.py mdatool [options] --keywords=keyword1,keyword2,keyword_with_spaces
 
+
 Options:
     --index-dir=<file>          Directory to save index files [default: ./Edgar/Index]
     --index-10k-path=<file>     CSV file to store 10K indices [default: ./Edgar/Index/index.10k.csv]
