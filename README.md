@@ -1,4 +1,4 @@
-Assignments
+## assignments
 
 (1) Assignment - Crijns, Romeijn: https://stefanromeijn.github.io/assignments/CrijnsRomeijn.html
 
